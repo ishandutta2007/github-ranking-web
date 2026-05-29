@@ -48,6 +48,7 @@
     "@types/node-fetch": "~2.6.2",
     "@uiw/formatter": "^2.0.2",
     "@wcj/ejs-cli": "^2.0.0",
+    "@wcj/github-rank": "^26.4.8",
     "cheerio": "~1.0.0-rc.12",
     "console-emojis": "~2.0.0",
     "dotenv": "~16.4.0",
